@@ -4,7 +4,7 @@
 
 Este proyecto fue desarrollado como pre-entrega del curso de automatización de pruebas, con el objetivo de aplicar los conocimientos adquiridos hasta la Clase 8.
 
-La automatización fue realizada sobre **:contentReference[oaicite:0]{index=0} SauceDemo**, una plataforma web creada para practicar testing funcional.
+La automatización fue realizada sobre SauceDemo, una plataforma web creada para practicar testing funcional.
 
 El proyecto automatiza flujos básicos de navegación e interacción con productos utilizando Selenium WebDriver y Python.
 
@@ -28,10 +28,10 @@ Aplicar conceptos de automatización web, localización de elementos, interacci�
 ## Tecnologías Utilizadas
 
 - **Python** → Lenguaje principal.
-- **:contentReference[oaicite:1]{index=1} Pytest** → Framework para ejecutar y organizar pruebas.
-- **:contentReference[oaicite:2]{index=2} Selenium WebDriver** → Automatización de pruebas web.
-- **:contentReference[oaicite:3]{index=3} Git** → Control de versiones.
-- **:contentReference[oaicite:4]{index=4} GitHub** → Almacenamiento del repositorio.
+- **Pytest** → Framework para ejecutar y organizar pruebas.
+- **Selenium WebDriver** → Automatización de pruebas web.
+- **Git** → Control de versiones.
+- **GitHub** → Almacenamiento del repositorio.
 
 Sitio web utilizado:
 
