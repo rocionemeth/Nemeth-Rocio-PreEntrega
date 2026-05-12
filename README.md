@@ -77,23 +77,7 @@ git clone https://github.com/rocionemeth/Nemeth-Rocio-PreEntrega.git
 cd Nemeth-Rocio-PreEntrega
 ```
 
-### 2. Crear entorno virtual (opcional)
-
-En Windows:
-
-```bash
-python -m venv venv
-venv\Scripts\activate
-```
-
-En Mac/Linux:
-
-```bash
-python3 -m venv venv
-source venv/bin/activate
-```
-
-### 3. Instalar dependencias
+### 2. Instalar dependencias
 
 ```bash
 pip install -r requirements.txt
